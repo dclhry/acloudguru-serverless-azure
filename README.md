@@ -1,2 +1,2 @@
 # acloudguru-serverless-azure
-Updated
+Updated  
