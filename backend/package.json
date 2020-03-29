@@ -1,0 +1,16 @@
+{
+  "name": "speakerapp",
+  "version": "0.0.1",
+  "description": "a cloud guru course",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "dc",
+  "license": "ISC"
+}
