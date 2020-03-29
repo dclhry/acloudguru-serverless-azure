@@ -6,3 +6,4 @@ package-lock.json
 .vscode/launch.json
 .vscode/settings.json
 .vscode/tasks.json
+frontend/node_modules
